@@ -1,4 +1,4 @@
-# Addition of 2 numbers
+# Addition of 2 numbers accepted by user
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
